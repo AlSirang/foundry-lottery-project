@@ -4,6 +4,12 @@ Lottery Contract project for **Blockchain Developer, Smart Contract, & Solidity 
 
 This project uses Foundry, Solidity and Chainlink VRF and automation contracts. VRF provides capabilities to create random numbers on blockchain.
 
+## Deployed Contract on Sepolia Testnet
+
+<a href="https://sepolia.etherscan.io/address/0xf3c39f16e0106903a525a08bc4b16cc9743e799b#code" target="_blank">
+0xf3c39f16e0106903a525a08bc4b16cc9743e799b
+</a>
+
 ## Usage
 
 ### Build
