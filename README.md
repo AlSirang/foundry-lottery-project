@@ -1,8 +1,8 @@
 # Raffle Contract with Chainlink VRF
 
-## Documentation
+Lottery Contract project for **Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 |**.
 
-https://book.getfoundry.sh/
+This project uses Foundry, Solidity and Chainlink VRF and automation contracts. VRF provides capabilities to create random numbers on blockchain.
 
 ## Usage
 
@@ -100,3 +100,9 @@ $ cast --help
   ```shell
   forge coverage --report debug > coverage.txt
   ```
+
+# Acknowledgments
+
+This project is part of **Blockchain Developer, Smart Contract, & Solidity Course - Powered By AI - Beginner to Expert Course | Foundry Edition 2023 |**.
+
+Thank you Patrick Collins for your awesome course.
